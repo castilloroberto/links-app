@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/LinksApp/static/js/main.80253d28.chunk.js",
-    "main.js.map": "/LinksApp/static/js/main.80253d28.chunk.js.map",
-    "runtime-main.js": "/LinksApp/static/js/runtime-main.0136af89.js",
-    "runtime-main.js.map": "/LinksApp/static/js/runtime-main.0136af89.js.map",
-    "static/js/2.b6092785.chunk.js": "/LinksApp/static/js/2.b6092785.chunk.js",
-    "static/js/2.b6092785.chunk.js.map": "/LinksApp/static/js/2.b6092785.chunk.js.map",
-    "index.html": "/LinksApp/index.html",
-    "static/js/2.b6092785.chunk.js.LICENSE.txt": "/LinksApp/static/js/2.b6092785.chunk.js.LICENSE.txt"
+    "main.js": "/links-app/static/js/main.80253d28.chunk.js",
+    "main.js.map": "/links-app/static/js/main.80253d28.chunk.js.map",
+    "runtime-main.js": "/links-app/static/js/runtime-main.d6189a68.js",
+    "runtime-main.js.map": "/links-app/static/js/runtime-main.d6189a68.js.map",
+    "static/js/2.b6092785.chunk.js": "/links-app/static/js/2.b6092785.chunk.js",
+    "static/js/2.b6092785.chunk.js.map": "/links-app/static/js/2.b6092785.chunk.js.map",
+    "index.html": "/links-app/index.html",
+    "static/js/2.b6092785.chunk.js.LICENSE.txt": "/links-app/static/js/2.b6092785.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0136af89.js",
+    "static/js/runtime-main.d6189a68.js",
     "static/js/2.b6092785.chunk.js",
     "static/js/main.80253d28.chunk.js"
   ]
